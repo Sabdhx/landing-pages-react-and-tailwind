@@ -6,6 +6,7 @@ import Catagories from './pages/Catagories'
 import OurBlogs from './pages/OurBlogs'
 import ClientSays from './pages/ClientSays'
 import ContactUs from './pages/ContactUs'
+import Footer from './pages/Footer'
 
 function App() {
   
@@ -21,7 +22,7 @@ function App() {
     <OurBlogs/>
     <ClientSays/>
     <ContactUs/>
-    
+    <Footer/>
     </div>
    
      
